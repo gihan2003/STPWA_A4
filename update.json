@@ -1,1 +1,10 @@
-{'ver1':'4', 'ver2':'1', 'ver3':'🛠[Fixed] All Crashes' , 'dli':'https://stpmodsofficial.blogspot.com/2023/11/delta-yowa-v530b1-latest-version-fmwa.html'}
+{
+  "records": [
+    {
+      "version": "STPWhatsApp A5.0",
+      "code": 2006,
+      "url": "https://stpmodsofficial.blogspot.com/2023/10/stpwhatsapp-a21.html",
+      "changelog": " Fixed Random crash in some chats/groups \n Fixed Crash when opening STPMODS Story \n Fixed Other minor bug fixes and improvements"
+    }
+  ]
+}
